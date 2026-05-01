@@ -1,11 +1,12 @@
 # Hi 👋 I'm Khushboo
 
-🚀 Python Developer  
+🚀 Web Developer  
 🔐 Building Security Tools  
 💡 Learning AI & Automation  
 
 ## 🛠️ Skills
 - Python
+- Php
 - GitHub
 - Automation
 - AI Tools
